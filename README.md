@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 #### contact `cechd@tukorea.ac.kr`
+####         `choihyangdo@gmail.com`
+
+
 
 <!--
 **chlgideh/chlgideh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
