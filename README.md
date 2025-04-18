@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### contact `cechd@tukorea.ac.kr`
-####         `choihyangdo@gmail.com`
 
 
 
